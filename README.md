@@ -1,3 +1,3 @@
-**PORTIFÓLIO**
-Primeira versão do meu portifólio.
-*HTML 
+**PORTIFÓLIO** <br/>
+Primeira versão do meu portifólio.<br/>
+* HTML 
